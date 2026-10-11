@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Amir
 
-<!--
-**theoddprince/theoddprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · AI · Backend Systems**
 
-Here are some ideas to get you started:
+I'm a software engineer with 14 years of experience building software and solving engineering problems. I'm interested in applying AI to real-world challenges and designing backend systems that are reliable, maintainable, and built to scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+
+- **Applied AI** — AI-powered applications and practical integrations
+- **Backend engineering** — APIs, service architecture, and data-intensive systems
+- **Distributed systems** — Reliability, scalability, and system design
+- **Developer tools** — Tools and workflows that make software development better
+
+### What I build
+
+I use this space to share projects, technical experiments, and ideas focused on practical engineering. My goal is to build software that solves real problems, with an emphasis on clear architecture, maintainability, and useful documentation.
+
+### Let's connect
+
+I'm interested in meaningful engineering discussions, interesting open-source projects, and collaboration on practical AI and backend solutions.
+
+[GitHub](https://github.com/theoddprince)
